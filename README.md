@@ -79,3 +79,12 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 //password is now availble to be seen.
+
+##Visit page:
+https://raminnoorzada.github.io/Password-Generator/
+
+
+## Page Visibality:
+![Capture](https://user-images.githubusercontent.com/87600341/206356575-ecae8180-a446-4ea7-8e81-b4a25cb5587a.JPG)
+
+
